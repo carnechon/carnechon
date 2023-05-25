@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carnechon
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in Hardware, papercraft and some electronics.
 - 🌱 I’m currently learning Python and HTML
 - 💞️ I’m looking to collaborate on ...
